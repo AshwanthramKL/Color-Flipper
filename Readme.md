@@ -1,6 +1,6 @@
 # Color Flipper
 
-Part of John Smilga's 15 JS project tutorial.
+Part of John Smilga's 15 JS projects tutorial.
 
 ### SOURCE:  
 
