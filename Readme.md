@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/)
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Color-Flipper)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Color-Flipper/)
 
 ## My process
 
